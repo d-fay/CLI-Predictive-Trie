@@ -1,8 +1,4 @@
 """
-PROGRAMMING ASSIGNMENT #2
-
-Author: Dustin Fay
-Date: 25 Sept 2016
 
 A CLI based python program used to demonstrate the use of a trie data structure, (pronounced 'try'),
 for storing a dictionary of words and generating lists of all possible outcomes provided some input.
